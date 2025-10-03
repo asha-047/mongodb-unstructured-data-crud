@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-unstructured-data-crud",
+  "version": "1.0.0",
+  "description": "Experiment 8 - MongoDB CRUD for unstructured e-learning data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.7.0"
+  }
+}
